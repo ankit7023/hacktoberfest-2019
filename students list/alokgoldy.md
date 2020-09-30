@@ -7,4 +7,4 @@ Geeky Interests:
 Competetive Programming
 Full Stack Web Developer
 Mobile Stuff (Anddroid,Flutter)
-I hope you enjoyed!
+I hope you enjoyed yes!
